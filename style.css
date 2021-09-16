@@ -1,0 +1,80 @@
+.nav-logo{
+    width: 100px;
+}
+
+.banner-section{
+    background-color: #f9f9ff;
+}
+
+.banner-content{ 
+    margin-top: 30%;
+    color: rgba(0, 0, 0, 0.781);
+}
+.banner-content h5{
+    
+}
+.banner-content h1{
+    margin: 15px 0;
+}
+.banner-content p{margin-bottom: 25px;}
+.banner-content button{
+    background: #8490ff;
+    border: 1px solid;
+}
+
+.banner-bottom-content{
+    margin-top: 15%;
+    color: rgba(0, 0, 0, 0.781);
+}
+.banner-bottom-content button{
+    background: #8490ff;
+    border: 1px solid;
+    margin-top: 10px;
+}
+.banner-bottom-content h1{
+    margin: 18px 0;
+}
+.banner-bottom img{
+    border: 1px solid rgba(221, 221, 221, 0.863);
+    border-radius: 5px;
+}
+
+.count-section{
+    background-color: #8490ff;
+    color: white;
+}
+
+.service-section{
+    background-color: #f9f9ff;
+    color: rgba(0, 0, 0, 0.794);
+}
+.service-section h2{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.service-section p{
+    font-weight: 600;
+}
+
+.card h4{
+  height: 100px;
+  width: 100px;
+  line-height: 100px;
+  background-color: #f9f9ff;
+}
+.card{
+    box-shadow:  0 .5rem 1rem #8490ff5d !important;
+}
+.intro-card{
+    
+}
+.contact-section{
+    background-color: #f9f9ff;
+}
+.choto{
+    width: 48%;
+}
+.content-x{
+    margin-top: -390px;
+}
+   
